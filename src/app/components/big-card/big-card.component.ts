@@ -12,4 +12,5 @@ fotoBigCard:string="";
 cardTitle:string="";
 @Input()
 cardDescription:string=""
+
 }
